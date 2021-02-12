@@ -1,4 +1,6 @@
 # task_3
+
+
 class Worker:
 
     def __init__(self, name, surname, position, wage, bonus):

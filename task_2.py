@@ -1,4 +1,6 @@
 # task_2
+
+
 class Road:
     def __init__(self, length, width):
         self._length = length

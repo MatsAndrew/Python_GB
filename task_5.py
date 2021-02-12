@@ -1,4 +1,6 @@
 # task_5
+
+
 class Stationery:
     def __init__(self, title):
         self.title = title
